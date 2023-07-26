@@ -1,5 +1,5 @@
 # Nifty-50_Pharma_Sector_Shares_Post_Covid.
-#### Finally:- 
+## Finally:
 This project analyzes the performance of Nifty-50 Pharma Sector shares post-Covid, covering visualizations of closing prices, value and percentage changes, moving averages, volume traded, percentage of deliverable volume, daily returns frequency, and various plots for exploring relationships within the data.
 
 ## Summary:
