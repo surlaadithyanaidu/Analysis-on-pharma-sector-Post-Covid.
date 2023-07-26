@@ -1,0 +1,1 @@
+# Nifty-50_Pharma_Sector_Shares_Post_Covid.
