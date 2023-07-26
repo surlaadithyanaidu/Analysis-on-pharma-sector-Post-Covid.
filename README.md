@@ -1,4 +1,7 @@
 # Nifty-50_Pharma_Sector_Shares_Post_Covid.
+#### Finally:- 
+This project analyzes the performance of Nifty-50 Pharma Sector shares post-Covid, covering visualizations of closing prices, value and percentage changes, moving averages, volume traded, percentage of deliverable volume, daily returns frequency, and various plots for exploring relationships within the data.
+
 ## Summary:
 1.Plotting of Date Vs Closing Price.
 
@@ -23,8 +26,6 @@
 11.Plotted the company's Exponentially Moving Average in the Same plot with different alpha.
 
 12.Plotted all the company's pairplot which resembles all the possibe plots w.r.to columns in the dataframe.
-
-Finally:- This project analyzes the performance of Nifty-50 Pharma Sector shares post-Covid, covering visualizations of closing prices, value and percentage changes, moving averages, volume traded, percentage of deliverable volume, daily returns frequency, and various plots for exploring relationships within the data.
 
 
 
